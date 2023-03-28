@@ -1,6 +1,6 @@
 ## withLeche 
 ### I wanna be a worldwide FrontEnd developer with Leche 🐺
-<img src="https://img.shields.io/badge/HTML-orangered?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-orangered?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-#0769ad?style=flat-square&logo=jquery&logoColor=white"/>
 <!--
 **withLeche/withLeche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
