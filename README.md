@@ -1,7 +1,6 @@
 ## withLeche 
 ### I wanna be a worldwide FrontEnd developer with Leche 🐺
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML-#E34F26?style=flat&logo=HTML5&logoColor=#bbb"/></a>
-
+<img src="https://img.shields.io/badge/HTML-#bbb?style=flat-square&logo=HTML5&logoColor=#000000"/>
 
 <!--
 **withLeche/withLeche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
