@@ -1,6 +1,6 @@
 ## withLeche 
 ### I wanna be a worldwide FrontEnd developer with Leche 🐺
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-#E34F26?style=flat&logo=appveyor&logoColor=#bbb"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML-#E34F26?style=flat&logo=HTML5&logoColor=#bbb"/></a>
 
 
 <!--
