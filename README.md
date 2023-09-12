@@ -1,6 +1,6 @@
 
 ```
-I wanna be a worldwide FrontEnd developer with Leche. 🐺
+I wanna be a worldwide FrontEnd developer
 ```
 
 #### `language`
