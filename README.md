@@ -1,9 +1,28 @@
+## `Introduce`
 
-```
-I wanna be a worldwide FrontEnd developer
-```
+✍️ **읽고 이해하기 쉬운** 코드를 작성하는 개발자가 되고자 합니다.<br>
+🗣️ **올바른 소통** 방식에 대해 끊임없이 고민하고 **함께 성장**하는 문화 형성을 지향합니다.
 
-#### `language`
-<img src="https://img.shields.io/badge/HTML-orangered?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-darkblue?style=flat-square&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-pink?style=flat-square&logo=sass&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> 
-#### `stats`
-![whoisrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoisrey&theme=vue&show_icons=true) ![whoisrey's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=whoisrey&theme=vue&show_icons=true)
+<br>
+
+### `skills`
+![JavaScript](https://img.shields.io/badge/javascript-%23404d59.svg?style=for-the-badge&logo=javascript&logoColor=%sd)
+![React](https://img.shields.io/badge/react-%23404d59.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23404d59.svg?style=for-the-badge&logo=redux&logoColor=%23DB7093)
+![Recoil](https://img.shields.io/badge/recoil-%23404d59.svg?style=for-the-badge&logo=recoil&logoColor=%sd)
+![Zustand](https://img.shields.io/badge/zustand-%23404d59.svg?style=for-the-badge&logo=react&logoColor=%23FFFFFF) <br>
+![NodeJS](https://img.shields.io/badge/node.js-404d59?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%23w)
+![MongoDB & Mongoose](https://img.shields.io/badge/MongoDB%20&%20Mongoose-%23404d59.svg?style=for-the-badge&logo=mongodb&logoColor=w) <br>
+![Firebase](https://img.shields.io/badge/firebase-%23404d59.svg?style=for-the-badge&logo=firebase&logoColor=red)
+![Amazon Web Service](https://img.shields.io/badge/amazon%20web%20service-%23404d59.svg?style=for-the-badge&logo=amazon&logoColor=b)
+
+<br>
+
+### `projects`
+2024
+- [Soundrag](https://soundrag-31cbb.web.app/) : 스피커의 배치에 따라 소리의 변화를 느낄 수 있는 3D 공간 음향 시뮬레이터
+- [Testable95](https://testable95.web.app/) : 블록 코딩 방식을 활용한 Playwright 기반 E2E 테스트 코드 생성기
+
+2023
+- [들숨날숨](https://teal-jalebi-251bb4.netlify.app/) : 위치 기반 달리기 소모임 SNS 서비스
