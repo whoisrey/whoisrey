@@ -24,6 +24,3 @@
 2024
 - [Soundrag](https://soundrag.co.kr/) : 스피커의 배치에 따라 소리의 변화를 느낄 수 있는 3D 공간 음향 시뮬레이터
 - [Testable95](https://testable95.co.kr/) : 블록 코딩 방식을 활용한 Playwright 기반 E2E 테스트 코드 생성기
-
-2023
-- [들숨날숨](https://teal-jalebi-251bb4.netlify.app/) : 위치 기반 달리기 소모임 SNS 서비스
