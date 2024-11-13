@@ -7,7 +7,8 @@
 
 ### `skills`
 ![JavaScript](https://img.shields.io/badge/javascript-%23404d59.svg?style=for-the-badge&logo=javascript&logoColor=%sd)
-![React](https://img.shields.io/badge/react-%23404d59.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%23404d59.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br>
+![React Query](https://img.shields.io/badge/reactquery-%23404d59.svg?style=for-the-badge&logo=reactquery&logoColor=%2) 
 ![Redux](https://img.shields.io/badge/redux-%23404d59.svg?style=for-the-badge&logo=redux&logoColor=%23DB7093)
 ![Recoil](https://img.shields.io/badge/recoil-%23404d59.svg?style=for-the-badge&logo=recoil&logoColor=%sd)
 ![Zustand](https://img.shields.io/badge/zustand-%23404d59.svg?style=for-the-badge&logo=react&logoColor=%23FFFFFF) <br>
