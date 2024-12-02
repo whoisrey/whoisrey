@@ -21,6 +21,10 @@
 <br>
 
 ### `projects`
-2024
 - [Soundrag](https://soundrag.co.kr/) : 스피커의 배치에 따라 소리의 변화를 느낄 수 있는 3D 공간 음향 시뮬레이터
 - [Testable95](https://testable95.co.kr/) : 블록 코딩 방식을 활용한 Playwright 기반 E2E 테스트 코드 생성기
+
+<br>
+
+### `blog`
+- [기록하고 기억하기](https://devrey.blog/)
